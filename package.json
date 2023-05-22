@@ -1,0 +1,16 @@
+{
+  "name": "evolucion-ecmascript",
+  "version": "1.0.0",
+  "description": "Creé este repositorio para practicar las modificaciones agregadas en cada nueva versión de EcmaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Alejandro Valencia",
+  "licence": "MIT",
+  "type": "module"
+}
