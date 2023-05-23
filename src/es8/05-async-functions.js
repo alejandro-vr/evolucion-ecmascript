@@ -1,3 +1,4 @@
+// Async functions for don't block the workflow
 const fnAsync = () => {
   return new Promise((resolve, reject) => {
     (true)

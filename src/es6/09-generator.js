@@ -1,3 +1,4 @@
+// Use a generator 'function*'
 function* iterate(array) {
   for (let value of array) {
     yield value;
@@ -10,4 +11,4 @@ console.log(it.next().value);
 console.log(it.next().value);
 console.log(it.next().value);
 console.log(it.next().value);
-console.log(it.next().value); // Undefined porque ya no hay elementos en el array
+console.log(it.next().value); // Undefined becouse index 5 don't exist

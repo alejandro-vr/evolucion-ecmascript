@@ -12,5 +12,8 @@
   ],
   "author": "Alejandro Valencia",
   "licence": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
 }

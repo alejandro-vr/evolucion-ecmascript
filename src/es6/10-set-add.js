@@ -1,3 +1,4 @@
+// Object 'Set()' for work with lists
 const list = new Set();
 
 list.property = 'item 4';

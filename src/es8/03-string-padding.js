@@ -1,3 +1,4 @@
+// Methods 'padStart()' and 'padEnd()' in strings
 const string = 'Hello';
 
 console.log(string.padStart(6, '_'));

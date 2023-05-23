@@ -12,4 +12,5 @@ const anotherFunction = () => {
 anotherFunction()
   .then(response => console.log(response))
   .catch(err => console.log(err))
-  .finally(() => console.log('Finaly'));
+  // Now using 'finally' for know when was finished the execution
+  .finally(() => console.log('Finally'));
